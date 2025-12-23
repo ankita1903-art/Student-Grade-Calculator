@@ -1,0 +1,32 @@
+Test case:1
+Enter marks(0-100): 85
+
+ RESULT FOR Priya
+Marks: 85/100
+Grade: B
+Message: Very good!Try to improve more.
+
+Test case:2 
+Enter student's name: Rahul
+Enter marks(0-100): 120
+Invalid input!please enter number between 0-100
+
+Test case:3
+Enter student's name: Ram
+Enter marks(0-100): abc
+Please enter numerics only.
+
+Test case:4
+Enter student's name: Puja
+Enter marks(0-100): -90
+Invalid input!please enter number between 0-100
+
+Now again test case 1:
+Enter student's name: puja
+Enter marks(0-100): 90
+
+ RESULT FOR puja
+Marks: 90/100
+Grade: A
+Message: EXCELLENT! Keep it up.
+
